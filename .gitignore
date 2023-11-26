@@ -1,20 +1,3 @@
-*.csv
-*.jpeg
-*.jpg
-*.jpg
-*.json
-*.txt
-*.pdf
-*.pdf
-*.pickle
-*.png
-*.png
-*.pyc
-*.xml
-*.zip
-*.model
-*.npy
-
 .bash_history
 .bashrc
 .cache
@@ -46,9 +29,6 @@ temporary
 tmp
 __pycache__
 
-data/*
-models/*
-outputs/*
 __pycache__
 .coverage
 .mypy_cache
